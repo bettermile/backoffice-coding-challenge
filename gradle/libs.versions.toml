@@ -1,6 +1,6 @@
 [versions]
 hamkrest = "1.8.0.1"
-junit = "5.13.4"
+junit = "6.0.0"
 kotlin = "2.2.20"
 kotlinter = "5.2.0"
 mockito-core = "5.19.0"
